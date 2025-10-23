@@ -23,8 +23,8 @@ By completing this task, you will:
 
 Choose one of the following free-tier platforms:
 
-- **Amazon Web Services (AWS Free Tier)** — *Recommended*
-- **Google Cloud Platform (GCP Free Tier)**
+- **Amazon Web Services (AWS Free Tier)** 
+
 
 ---
 
@@ -32,7 +32,7 @@ Choose one of the following free-tier platforms:
 
 ### 1️⃣ Login to Cloud Console
 
-- Sign in to **AWS Management Console** or **Google Cloud Console**
+- Sign in to **AWS Management Console** 
 - Open the **VPC Dashboard**
 
 ---
