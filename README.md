@@ -1,13 +1,13 @@
-# 🌐 Task 3: Create and Configure a Virtual Private Cloud (VPC) with Subnets
+#  Task 3: Create and Configure a Virtual Private Cloud (VPC) with Subnets
 
-## 🎯 Objective
+##  Objective
 
 The goal of this task is to **understand cloud networking fundamentals** by creating a **Virtual Private Cloud (VPC)** with both **public and private subnets**, and configuring controlled internet access.  
 You’ll learn how to securely isolate and connect resources within the cloud.
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 By completing this task, you will:
 
@@ -19,7 +19,7 @@ By completing this task, you will:
 
 ---
 
-## 🛠️ Tools & Platforms
+## Tools & Platforms
 
 Choose one of the following free-tier platforms:
 
@@ -28,16 +28,16 @@ Choose one of the following free-tier platforms:
 
 ---
 
-## 🧭 Step-by-Step Implementation Guide
+##  Step-by-Step Implementation Guide
 
-### 1️⃣ Login to Cloud Console
+### 1️ Login to Cloud Console
 
 - Sign in to **AWS Management Console** 
 - Open the **VPC Dashboard**
 
 ---
 
-### 2️⃣ Create a Virtual Private Cloud (VPC)
+### Create a Virtual Private Cloud (VPC)
 
 1. Click **Create VPC**
 2. Set the following:
@@ -49,7 +49,7 @@ This defines your private network space in the cloud.
 
 ---
 
-### 3️⃣ Create Subnets
+###  Create Subnets
 
 #### a. Public Subnet
 - **Name:** `Public-Subnet`
@@ -65,7 +65,7 @@ This defines your private network space in the cloud.
 
 ---
 
-### 4️⃣ Create and Attach an Internet Gateway (IGW)
+### Create and Attach an Internet Gateway (IGW)
 
 1. Navigate to **Internet Gateways → Create Internet Gateway**
 2. **Name:** `MyVPC-IGW`
@@ -75,7 +75,7 @@ This enables outbound internet connectivity for your public subnet.
 
 ---
 
-### 5️⃣ Configure Route Tables
+###  Configure Route Tables
 
 #### a. Public Route Table
 1. Create a route table named `Public-RT`
@@ -91,7 +91,7 @@ This enables outbound internet connectivity for your public subnet.
 
 ---
 
-### 6️⃣ Verification
+###  Verification
 
 1. Go to **VPC → Subnets**
 2. Confirm:
@@ -101,16 +101,16 @@ This enables outbound internet connectivity for your public subnet.
 
 ---
 
-## 📸 Deliverables
+## Deliverables
 
 Please include the following screenshots in your submission:
 
-1. ✅ **VPC Dashboard** showing both subnets  
-2. ✅ **Route Table Configuration** for Public and Private Subnets  
+1. **VPC Dashboard** showing both subnets  
+2.  **Route Table Configuration** for Public and Private Subnets  
 
 ---
 
-## 📝 Documentation Summary
+##  Documentation Summary
 
 | Item | Details |
 |------|----------|
@@ -123,7 +123,7 @@ Please include the following screenshots in your submission:
 
 ---
 
-## 💡 Outcome
+##  Outcome
 
 After completing this task, you will have:
 
@@ -134,5 +134,5 @@ After completing this task, you will have:
 
 ---
 
-### ✅ Example Submission Structure
+
 
